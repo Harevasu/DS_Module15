@@ -16,8 +16,8 @@ To write a C function to delete an element in a Heap Tree.
 
 ### Developed by: HAREVASU S
 ### RegisterNumber: 212223230069
-### 
-Program to delete an element in a Heap Tree
+### Program to delete an element in a Heap Tree
+```
 voiddeleteRoot(int array[], int num)
 {
 int i; for(i=0;i<size;i++)
